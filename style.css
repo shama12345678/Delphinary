@@ -49,17 +49,17 @@ h2 {
 p {
     border:  10px solid #03FFFF;
     border-radius: 30px;
-    padding: 22px;
+    padding: 10px;
 }
 footer {
     background-color: #F37B9F;
+    padding: 15px;
 }
 .p2 {
-width: 960px;
-height: 217px;
-left: 0px;
-top: 1288px;
+background: white;
 
-background: #F37B9F;
-    
+}
+main img {
+    margin-right: 29px;
+    margin-top: 10px;
 }
